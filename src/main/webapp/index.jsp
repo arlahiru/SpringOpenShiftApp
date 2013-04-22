@@ -8,6 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hello Openshift!</h1>
+        <p>Created by: Lahiru</p>
     </body>
 </html>
